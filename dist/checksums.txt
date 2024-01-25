@@ -1,0 +1,6 @@
+bc3190f8e6bdfe5b18692deefdab62de0ac356b32408ec038d6dd95e6d23531a  zspace.0.0.1-next-darwin-amd64.tar.gz
+e0aa1d6714322a8d54e556c9be17f7e5e3988c0b7ad31181f4eb62b8b40dbc0e  zspace.0.0.1-next-darwin-arm64.tar.gz
+91eedcf6d90de33584b1f23a0216d35513fb5b25ce62f51dc32d7e2929cc6650  zspace.0.0.1-next-linux-amd64.tar.gz
+ba1adfdd42b8fd3424833604597935732c105d3cc14fcbe5e39d79528ae42e6d  zspace.0.0.1-next-linux-arm64.tar.gz
+1a1ab7864ff1b1f9f8ba9ca40dda9d584028240134451e516306975435a67035  zspace.0.0.1-next-windows-amd64.tar.gz
+aebeef490ff5a1e5c1cc2eb3136b8a6232412e7661e1ebb9d01aa1f1977741cc  zspace.0.0.1-next-windows-arm64.tar.gz

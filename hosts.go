@@ -11,7 +11,7 @@ import (
 	"strings"
 
 	"github.com/emirpasic/gods/maps/linkedhashmap"
-	"tcw.im/gtc"
+	"pkg.tcw.im/gtc"
 )
 
 type hostname struct {
