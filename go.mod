@@ -1,6 +1,6 @@
 module zspace
 
-go 1.20.0
+go 1.20
 
 require (
 	github.com/Ullaakut/nmap/v3 v3.0.2
